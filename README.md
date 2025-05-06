@@ -1,2 +1,2 @@
 # findingsunsets
-Just my personal blog where I debugging life one post at a time.
+Just my personal blog where I debug life one post at a time.
